@@ -1,2 +1,2 @@
 # RollDices Game
--using React and styled Components
+- using React and styled Components
